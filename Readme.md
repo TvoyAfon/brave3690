@@ -14,5 +14,5 @@
 
 7. Чтобы добавить удаленный репозиторий *git remote add origin* < URL > 
 8. Для отправки пишем *git push origin* < branch > 
-Вместо branch — имя ветки, которую надо отправить. Чаще всего используется master или main: *git push origin master* 
+Вместо branch — имя ветки, которую надо отправить. Чаще всего используется master или main: *git push origin master*! 
 
